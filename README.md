@@ -8,3 +8,5 @@
   - Q-Learning_and_Expected_SARSA_assignment
   - Dyna_Q_DynaQ+assignment 
 - Prediction and Control with Function Approximation
+  - Semi-Gradient TD(0) with State Aggregation Assignment
+  - Semi-Gradient TD with a Neural Network Assignment
