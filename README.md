@@ -10,3 +10,6 @@
 - Prediction and Control with Function Approximation
   - Semi-Gradient TD(0) with State Aggregation Assignment
   - Semi-Gradient TD with a Neural Network Assignment
+  - Function Approximation and Control Assignment
+  - Average Reward SoftMax Actor Critic Assignment
+  
