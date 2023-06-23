@@ -12,4 +12,7 @@
   - Semi-Gradient TD with a Neural Network Assignment
   - Function Approximation and Control Assignment
   - Average Reward SoftMax Actor Critic Assignment
-  
+- Capstone Project
+  - Moonshoot Technologies 
+  - Implement your agent Lunar Landing Assignment
+  - Completing the parameter study
